@@ -6,7 +6,7 @@ using { poapp.reuse as reuse } from '../db/reuse';
  
 using { Currency } from '@sap/cds/common';
  
-service CatalogService @(path: 'cat-service'){
+service CatalogService @(path: 'cat-service', requires:'authenticated-user') {
  
  
     entity ProductSrv as projection on database.master.Products;
@@ -16,6 +16,7 @@ service CatalogService @(path: 'cat-service'){
     entity AddressesSrv as projection on database.master.Addresses;
  
     entity EmployeeSrv as projection on database.master.Employees;
+    
   
     entity PurchaseOrderSrv as projection on database.transaction.PurchaseOrders{
         *,

@@ -1,0 +1,44 @@
+#2026 06 08 19:14:04.586#Z#DEBUG#1d9878e4-636e-11f1-a12f-eeee0a99901e.poapp-ui#flowable-async-job-executor-thread-12548#
+[PollStartAppStatusExecution] 09bdb4e9-89a8-44d2-b0f2-2b6ea4138a0c [2026-06-08T19:13:35.606612] Updated app with guid 09bdb4e9-89a8-44d2-b0f2-2b6ea4138a0c ({"lifecycle"=>{"data"=>{"buildpacks"=>["nodejs_buildpack"]}, "type"=>"buildpack"}}) (STDOUT, API)#
+#2026 06 08 19:14:04.586#Z#DEBUG#1d9878e4-636e-11f1-a12f-eeee0a99901e.poapp-ui#flowable-async-job-executor-thread-12548#
+[PollStartAppStatusExecution] 09bdb4e9-89a8-44d2-b0f2-2b6ea4138a0c [2026-06-08T19:13:35.710208] Updating process: "web" (STDOUT, API)#
+#2026 06 08 19:14:04.586#Z#DEBUG#1d9878e4-636e-11f1-a12f-eeee0a99901e.poapp-ui#flowable-async-job-executor-thread-12548#
+[PollStartAppStatusExecution] 09bdb4e9-89a8-44d2-b0f2-2b6ea4138a0c [2026-06-08T19:13:35.833803] Updated app with guid 09bdb4e9-89a8-44d2-b0f2-2b6ea4138a0c ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+#2026 06 08 19:14:04.586#Z#DEBUG#1d9878e4-636e-11f1-a12f-eeee0a99901e.poapp-ui#flowable-async-job-executor-thread-12548#
+[PollStartAppStatusExecution] 09bdb4e9-89a8-44d2-b0f2-2b6ea4138a0c [2026-06-08T19:13:55.800861] Stopping app with guid 09bdb4e9-89a8-44d2-b0f2-2b6ea4138a0c (STDOUT, API)#
+#2026 06 08 19:14:04.586#Z#DEBUG#1d9878e4-636e-11f1-a12f-eeee0a99901e.poapp-ui#flowable-async-job-executor-thread-12548#
+[PollStartAppStatusExecution] 09bdb4e9-89a8-44d2-b0f2-2b6ea4138a0c [2026-06-08T19:13:55.844511] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 stopping instance 8a849463-6a19-48eb-57d8-fec4 (STDOUT, CELL)#
+#2026 06 08 19:14:04.586#Z#DEBUG#1d9878e4-636e-11f1-a12f-eeee0a99901e.poapp-ui#flowable-async-job-executor-thread-12548#
+[PollStartAppStatusExecution] 09bdb4e9-89a8-44d2-b0f2-2b6ea4138a0c [2026-06-08T19:13:56.239408] Starting app with guid 09bdb4e9-89a8-44d2-b0f2-2b6ea4138a0c (STDOUT, API)#
+#2026 06 08 19:14:04.586#Z#DEBUG#1d9878e4-636e-11f1-a12f-eeee0a99901e.poapp-ui#flowable-async-job-executor-thread-12548#
+[PollStartAppStatusExecution] 09bdb4e9-89a8-44d2-b0f2-2b6ea4138a0c [2026-06-08T19:13:56.732066] Cell 684caff8-89cd-492b-be01-b3d0835f1763 creating container for instance 8064c7f5-9474-47a4-4b41-be12 (STDOUT, CELL)#
+#2026 06 08 19:14:04.586#Z#DEBUG#1d9878e4-636e-11f1-a12f-eeee0a99901e.poapp-ui#flowable-async-job-executor-thread-12548#
+[PollStartAppStatusExecution] 09bdb4e9-89a8-44d2-b0f2-2b6ea4138a0c [2026-06-08T19:13:57.656284] Security group rules were updated (STDOUT, CELL)#
+#2026 06 08 19:14:04.586#Z#DEBUG#1d9878e4-636e-11f1-a12f-eeee0a99901e.poapp-ui#flowable-async-job-executor-thread-12548#
+[PollStartAppStatusExecution] 09bdb4e9-89a8-44d2-b0f2-2b6ea4138a0c [2026-06-08T19:13:57.762476] Cell 684caff8-89cd-492b-be01-b3d0835f1763 successfully created container for instance 8064c7f5-9474-47a4-4b41-be12 (STDOUT, CELL)#
+#2026 06 08 19:14:04.586#Z#DEBUG#1d9878e4-636e-11f1-a12f-eeee0a99901e.poapp-ui#flowable-async-job-executor-thread-12548#
+[PollStartAppStatusExecution] 09bdb4e9-89a8-44d2-b0f2-2b6ea4138a0c [2026-06-08T19:13:58.017766] Downloading droplet... (STDOUT, CELL)#
+#2026 06 08 19:14:14.595#Z#DEBUG#1d9878e4-636e-11f1-a12f-eeee0a99901e.poapp-ui#flowable-async-job-executor-thread-12553#
+[PollStartAppStatusExecution] 09bdb4e9-89a8-44d2-b0f2-2b6ea4138a0c [2026-06-08T19:14:05.328705] Downloaded droplet (62.2M) (STDOUT, CELL)#
+#2026 06 08 19:14:14.595#Z#DEBUG#1d9878e4-636e-11f1-a12f-eeee0a99901e.poapp-ui#flowable-async-job-executor-thread-12553#
+[PollStartAppStatusExecution] 09bdb4e9-89a8-44d2-b0f2-2b6ea4138a0c [2026-06-08T19:14:05.328940] Starting health monitoring of container (STDOUT, CELL)#
+#2026 06 08 19:14:14.595#Z#DEBUG#1d9878e4-636e-11f1-a12f-eeee0a99901e.poapp-ui#flowable-async-job-executor-thread-12553#
+[PollStartAppStatusExecution] 09bdb4e9-89a8-44d2-b0f2-2b6ea4138a0c [2026-06-08T19:14:05.477356] Invoking pre-start scripts. (STDOUT, APP/PROC/WEB)#
+#2026 06 08 19:14:14.595#Z#DEBUG#1d9878e4-636e-11f1-a12f-eeee0a99901e.poapp-ui#flowable-async-job-executor-thread-12553#
+[PollStartAppStatusExecution] 09bdb4e9-89a8-44d2-b0f2-2b6ea4138a0c [2026-06-08T19:14:05.757992] Invoking start command. (STDOUT, APP/PROC/WEB)#
+#2026 06 08 19:14:14.595#Z#DEBUG#1d9878e4-636e-11f1-a12f-eeee0a99901e.poapp-ui#flowable-async-job-executor-thread-12553#
+[PollStartAppStatusExecution] 09bdb4e9-89a8-44d2-b0f2-2b6ea4138a0c [2026-06-08T19:14:06.301972] > app@1.0.0 start (STDOUT, APP/PROC/WEB)#
+#2026 06 08 19:14:14.595#Z#DEBUG#1d9878e4-636e-11f1-a12f-eeee0a99901e.poapp-ui#flowable-async-job-executor-thread-12553#
+[PollStartAppStatusExecution] 09bdb4e9-89a8-44d2-b0f2-2b6ea4138a0c [2026-06-08T19:14:06.301989] > node node_modules/@sap/approuter/approuter.js (STDOUT, APP/PROC/WEB)#
+#2026 06 08 19:14:14.595#Z#DEBUG#1d9878e4-636e-11f1-a12f-eeee0a99901e.poapp-ui#flowable-async-job-executor-thread-12553#
+[PollStartAppStatusExecution] 09bdb4e9-89a8-44d2-b0f2-2b6ea4138a0c [2026-06-08T19:14:06.525875] {"written_at":"2026-06-08T19:14:06.523Z","written_ts":1780946046523000000,"csn_component":"-","correlation_id":"-","type":"log","logger":"nodejs-logger","layer":"/LoggingLibrary","level":"warning","container_id":"10.32.1.6","component_type":"application","component_id":"09bdb4e9-89a8-44d2-b0f2-2b6ea4138a0c","component_name":"poapp-ui","component_instance":-1,"source_instance":-1,"organization_id":"7d4df221-b2af-48c0-b133-a5282b0f8bd8","organization_name":"4813756dtrial","space_id":"582d9646-098e-45fd-9876-46d4d4c5357f","space_name":"dev","context_id":"","msg":"Dynamic log level switching not available"} (STDOUT, APP/PROC/WEB)#
+#2026 06 08 19:14:14.595#Z#DEBUG#1d9878e4-636e-11f1-a12f-eeee0a99901e.poapp-ui#flowable-async-job-executor-thread-12553#
+[PollStartAppStatusExecution] 09bdb4e9-89a8-44d2-b0f2-2b6ea4138a0c [2026-06-08T19:14:07.173957] {"written_at":"2026-06-08T19:14:07.173Z","written_ts":1780946047173000000,"csn_component":"-","correlation_id":"mq5laksl","type":"log","logger":"nodejs-logger","layer":"/approuter","level":"info","container_id":"10.32.1.6","component_type":"application","component_id":"09bdb4e9-89a8-44d2-b0f2-2b6ea4138a0c","component_name":"poapp-ui","component_instance":-1,"source_instance":-1,"organization_id":"7d4df221-b2af-48c0-b133-a5282b0f8bd8","organization_name":"4813756dtrial","space_id":"582d9646-098e-45fd-9876-46d4d4c5357f","space_name":"dev","context_id":"mq5laksl","msg":"Application router version 22.0.1"} (STDOUT, APP/PROC/WEB)#
+#2026 06 08 19:14:14.595#Z#DEBUG#1d9878e4-636e-11f1-a12f-eeee0a99901e.poapp-ui#flowable-async-job-executor-thread-12553#
+[PollStartAppStatusExecution] 09bdb4e9-89a8-44d2-b0f2-2b6ea4138a0c [2026-06-08T19:14:07.179633] {"written_at":"2026-06-08T19:14:07.179Z","written_ts":1780946047179000000,"csn_component":"-","correlation_id":"mq5laksr","type":"log","logger":"nodejs-logger","layer":"/Configuration","level":"info","container_id":"10.32.1.6","component_type":"application","component_id":"09bdb4e9-89a8-44d2-b0f2-2b6ea4138a0c","component_name":"poapp-ui","component_instance":-1,"source_instance":-1,"organization_id":"7d4df221-b2af-48c0-b133-a5282b0f8bd8","organization_name":"4813756dtrial","space_id":"582d9646-098e-45fd-9876-46d4d4c5357f","space_name":"dev","context_id":"mq5laksr","msg":"No COOKIES environment variable"} (STDOUT, APP/PROC/WEB)#
+#2026 06 08 19:14:14.595#Z#DEBUG#1d9878e4-636e-11f1-a12f-eeee0a99901e.poapp-ui#flowable-async-job-executor-thread-12553#
+[PollStartAppStatusExecution] 09bdb4e9-89a8-44d2-b0f2-2b6ea4138a0c [2026-06-08T19:14:07.214201] {"written_at":"2026-06-08T19:14:07.213Z","written_ts":1780946047213000000,"csn_component":"-","correlation_id":"mq5laksl","type":"log","logger":"nodejs-logger","layer":"/approuter","level":"info","container_id":"10.32.1.6","component_type":"application","component_id":"09bdb4e9-89a8-44d2-b0f2-2b6ea4138a0c","component_name":"poapp-ui","component_instance":-1,"source_instance":-1,"organization_id":"7d4df221-b2af-48c0-b133-a5282b0f8bd8","organization_name":"4813756dtrial","space_id":"582d9646-098e-45fd-9876-46d4d4c5357f","space_name":"dev","context_id":"mq5laksl","msg":"Application router is listening on port: 8080"} (STDOUT, APP/PROC/WEB)#
+#2026 06 08 19:14:14.595#Z#DEBUG#1d9878e4-636e-11f1-a12f-eeee0a99901e.poapp-ui#flowable-async-job-executor-thread-12553#
+[PollStartAppStatusExecution] 09bdb4e9-89a8-44d2-b0f2-2b6ea4138a0c [2026-06-08T19:14:08.601508] Container became healthy (STDOUT, CELL)#
+#2026 06 08 19:14:14.595#Z#DEBUG#1d9878e4-636e-11f1-a12f-eeee0a99901e.poapp-ui#flowable-async-job-executor-thread-12553#
+[PollStartAppStatusExecution] 09bdb4e9-89a8-44d2-b0f2-2b6ea4138a0c [2026-06-08T19:14:08.624654] Process became ready with guid 09bdb4e9-89a8-44d2-b0f2-2b6ea4138a0c payload: {"instance"=>"8064c7f5-9474-47a4-4b41-be12", "index"=>0, "cell_id"=>"684caff8-89cd-492b-be01-b3d0835f1763", "ready"=>true, "version"=>"41aceef9-b766-4e5e-b8dc-ee0959f6df12"} (STDOUT, API)#
